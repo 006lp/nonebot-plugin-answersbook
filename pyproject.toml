@@ -1,6 +1,6 @@
 [project]
 name = "nonebot-plugin-answersbook"
-version = "0.2.0"
+version = "0.2.1beta"
 description = "The Book of Answers for NoneBot2"
 authors = [
     {name = "Akirami", email = "Akiramiaya@outlook.com"},
